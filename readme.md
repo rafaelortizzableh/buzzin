@@ -1,3 +1,6 @@
 ### Test Buzz GitHub integration: 
-Create a PR based on edits to any file on this repo to to start testing. 
-Then draft, open or assigned PRs should show up in the today tab of your Buzzer.
+To start testing: try creating a new file and submit a PR to the `main` branch of this repo.
+
+Try assigning a co-worker as a reviewer on the PR that you create. Both you and your co-worker should see that PR in the Today Tab of Buzz.
+
+PS: Draft PRs also appear on Buzz...
